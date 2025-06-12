@@ -7,11 +7,11 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID",))
-API_HASH = getenv("API_HASH",)
+API_ID = int(getenv("20798533",))
+API_HASH = getenv("12731853464e7518dc3d76570a9bac95",)
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN",)
+BOT_TOKEN = getenv("7110984051:AAGFSeax9wl4iZsS1NFPjywi7fqLLelUhmQ",)
 
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "Systumm_music_bot")
@@ -23,15 +23,15 @@ REPO_LINK = getenv("REPO_LINK" , "https://t.me/BRANDED_PAID_CC")
 BOT_NAME = getenv("BOT_NAME" , "Sytumm")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI",)
+MONGO_DB_URI = getenv("mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/",)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID",))
+LOGGER_ID = int(getenv("-1002328779532",))
 
 # Get this value from @CrewMusic_bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6258877205))
+OWNER_ID = int(getenv("7741478148", 6258877205))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -48,8 +48,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BRANDRD_BOT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BRANDED_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IvanxBeatxBoom")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ivanxmusic")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -72,7 +72,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING2 = getenv("BQFMsJ0Aw4NkcrCib_dpKWWpGg1boOBB9P1CBVOkSiqhIaRjhX8qEIMvh8H6UADPD1dCzCdvdioBTSwdeE1iOnvbEthDbqfSesgwUutVKz9oAwjCg7_l73vwRrGjkLnRMWj-o93otoOknrd78y00JObiJ7tM1bwjCGt-JhBzFSdRMJYIrICElfY4r_7bbZNuglrh36DdyqJ9IW8gnDl07tsjTQD_T_y34xiAIfDOWurTpzuyEwV46b5b2ILtGMAxXi4-xgCBtb2TDrHWD5I9GFCYz0J_DuulvjiBeGQvIHF1FLZjzO0RwDogf56l1zkDx_pNCO3nDpz12_ryeiO4X_lFesjTEwAAAAG-vn48AA", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
@@ -87,7 +87,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/tsfco0.jpg"
+    "START_IMG_URL", "https://i.ibb.co/zTWJGsFc/c0dabf4380ee.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/tsfco0.jpg"
