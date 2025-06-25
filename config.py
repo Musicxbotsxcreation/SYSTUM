@@ -23,7 +23,7 @@ REPO_LINK = getenv("REPO_LINK" , "https://t.me/BRANDED_PAID_CC")
 BOT_NAME = getenv("BOT_NAME" , "Sytumm")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("mongodb+srv://Ahadxivan:Ahadxivan@cluster0.rmsm94c.mongodb.net/",)
+MONGO_DB_URI = getenv("mongodb+srv://ahaan:ahaad@ahaan.hgkeruq.mongodb.net/?retryWrites=true&w=majority&appName=ahaan",)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
@@ -72,7 +72,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = BQCOaU4AGdvN3E5W0wRyjbcFBmwxjzF-TA60QLKBoLVEXvxLbWFBHio9hnmkdTQaJ-cTRylHxLGL9RUFzYJDP1RY6Qv-l1N2K7IFG-HfLVmwZi0_hnpWu430hd0usKSmJ3DYA_TvDw40v7S8MSguJxetq1uMsTmJgKdNUzObjRYohEs3i4YsXDdMfnEDmhiG3AYtxkpC8rFCAKhPqaZ3_Ym0HNW-7DKRs8FzzrqYuHSxBnMi67kUEQqkNDMSH_sxkSRaEqNjY2ta31n14PzKJyZzwA-jr4aV3NRxe9xNzhX8WwH9j2mkWSCmUrZsilY43vSl7V0cTC-TSMzrWIvWBoO3ooF_9AAAAAHmOWgrAAtGMAxXi4-xgCBtb2TDrHWD5I9GFCYz0J_DuulvjiBeGQvIHF1FLZjzO0RwDogf56l1zkDx_pNCO3nDpz12_ryeiO4X_lFesjTEwAAAAG-vn48AA", None)
+STRING2 = getenv("BQCOaU4AGdvN3E5W0wRyjbcFBmwxjzF-TA60QLKBoLVEXvxLbWFBHio9hnmkdTQaJ-cTRylHxLGL9RUFzYJDP1RY6Qv-l1N2K7IFG-HfLVmwZi0_hnpWu430hd0usKSmJ3DYA_TvDw40v7S8MSguJxetq1uMsTmJgKdNUzObjRYohEs3i4YsXDdMfnEDmhiG3AYtxkpC8rFCAKhPqaZ3_Ym0HNW-7DKRs8FzzrqYuHSxBnMi67kUEQqkNDMSH_sxkSRaEqNjY2ta31n14PzKJyZzwA-jr4aV3NRxe9xNzhX8WwH9j2mkWSCmUrZsilY43vSl7V0cTC-TSMzrWIvWBoO3ooF_9AAAAAHmOWgrAA", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
